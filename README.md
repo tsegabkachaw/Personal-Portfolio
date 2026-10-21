@@ -1,6 +1,6 @@
 # Tsegab Kachaw — Developer Portfolio
 
-A minimal-dark personal portfolio website with an AI assistant, built as a university assignment for Software Engineering at Arba Minch University.
+A minimal-dark personal portfolio website with an AI-powered assistant.
 
 ## 🎯 Overview
 
@@ -19,7 +19,6 @@ A responsive portfolio website showcasing my profile, projects, skills, and cont
 ## 📁 Project Structure
 
 ```
-assignment/
 ├── index.html              # Main portfolio page
 ├── css/
 │   └── style.css           # All styles (design system + layout)
@@ -36,7 +35,6 @@ assignment/
 │   ├── faq.md
 │   └── rules.md
 ├── api/                    # Serverless function (chat endpoint)
-├── SRS_Portfolio.md         # Software Requirements Specification
 └── README.md               # This file
 ```
 
@@ -49,22 +47,20 @@ assignment/
 - Typography-driven hierarchy
 - Subtle hover interactions
 
-## 📋 Project Phases
+## 🚀 Features
 
-| # | Phase | Dates | Status |
-|---|---|---|---|
-| 1 | Planning & SRS | Oct 20 – 26 | 🟢 In progress |
-| 2 | Design | Oct 27 – Nov 9 | ⬜ Not started |
-| 3 | Website Build | Nov 10 – 23 | ⬜ Not started |
-| 4 | AI Assistant | Nov 24 – Dec 7 | ⬜ Not started |
-| 5 | Testing & Deploy | Dec 8 – 17 | ⬜ Not started |
+- Responsive design (360px to 1920px)
+- Dark minimal aesthetic
+- AI chat assistant with curated knowledge base
+- Downloadable CV
+- Smooth animations and transitions
 
 ## 👤 Author
 
-**Tsegab Kachaw**
+**Tsegab Kachaw** — Software Engineering Student & Full Stack Developer
 - 📧 tsegabkachaw14@gmail.com
-- 🎓 Arba Minch University, 3rd Year Software Engineering
+- 🔗 [GitHub](https://github.com/tsegabkachaw)
 
 ## 📄 License
 
-This project is part of a university assignment.
+MIT
